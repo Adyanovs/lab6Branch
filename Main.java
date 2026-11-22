@@ -1,6 +1,6 @@
 class Main{
     public static void main(String[] args) {
         System.out.print("---1 задание---");
-        System.out.println("третий коммит");
+        System.out.println("четвертый коммит");
     }
 }
